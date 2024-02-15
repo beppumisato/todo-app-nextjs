@@ -8,7 +8,7 @@ export default async function Home() {
 
   return (
     <main className="flex flex-col items-center justify-center min-h-screen py-2 bg-orange-100">
-      <h1 className="text-4xl font-bold text-orange-700 -mt-32">
+      <h1 className="text-4xl font-bold text-orange-700 mt-20">
         Nextjs 13 Todo App
         </h1>
       <div className="w-full max-w-xl mt-5">
